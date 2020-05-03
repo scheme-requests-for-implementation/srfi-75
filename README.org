@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=internationalization][Internationalization]], [[https://srfi.schemers.org/?keywords=r6rs-process][R6RS process]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-75/][SRFI 75]]: R6RS Unicode data, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
